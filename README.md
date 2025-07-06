@@ -12,7 +12,6 @@ This project demonstrates a full **CI/CD pipeline** using:
 
 ## 📁 Project Structure
 
-
 jenkins-python-cicd/
 ├── app/ # Python Flask app
 │ └── main.py
